@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Databases , Microservices and Frontend Engineering
 - 💞️ I’m looking to collaborate on Reactjs, Frontend Engineering , Scaling SQL databases
 - 📫 Reach me at ssnaveenprakash@gmail.com
+- 🥰 I love google's UI design
